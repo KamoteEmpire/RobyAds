@@ -36,7 +36,7 @@
     <gap:plugin name="org.apache.cordova.dialogs" />
     <gap:plugin name="org.apache.cordova.vibration" />
 	<gap:plugin name="nl.x-services.plugins.toast" />
-	<gap:plugin name="com.admob.plugin" version="3.0.0" source="plugins.cordova.io"/>
+	<!--<gap:plugin name="com.admob.plugin" source="plugins.cordova.io"/>-->
 	<gap:plugin name="com.rjfun.cordova.plugin.admob" source="plugins.cordova.io" />
  
 	<feature name="http://api.phonegap.com/1.0/geolocation"/>
